@@ -1,0 +1,130 @@
+Personal Website Creation Prompt
+Overview
+Create a modern, professional personal website for Krishna Sudan, a Full Stack Software Engineer currently working at UBS Group AG. The website should showcase technical expertise, professional experience, and projects while maintaining a clean, responsive design.
+Personal Information
+Name: Krishna Sudan
+Location: Pune, India
+Current Role: Software Engineer at UBS Group AG
+Email: krishnasudan909@gmail.com
+Phone: (+91) 6006277089
+LinkedIn: https://www.linkedin.com/in/krishna908/
+Education: Bachelor's of Information Technology from Vishwakarma Institute of Technology, Pune (GPA: 8.84)
+Professional Background
+Current Position: Software Engineer at UBS Group AG (August 2023 - Present)
+Specializes in cloud infrastructure, machine learning, and full-stack development
+Achieved 20% boost in cloud monitoring efficiency through Azure ARM templates
+Developed ML model with 94% accuracy for SLA breach prediction
+Enhanced user retention by 15% with dynamic React.js interfaces
+Automated workflows saving 210+ manual hours
+Previous Role: Technology Intern at UBS Group AG (January 2023 - June 2023)
+Built predictive monitoring systems with 98% forecast accuracy
+Streamlined incident management through automated workflows
+Technical Skills
+Programming Languages: C++, Java, JavaScript, Python Frameworks & Libraries: Spring Boot, React.js, Node.js, Microservices, REST APIs Databases: MySQL, PostgreSQL, MongoDB Tools: Git, Linux, JUnit, HTML/CSS, Bootstrap Concepts: SDLC, CI/CD, Test Automation, API Design
+Key Projects to Highlight
+UBS Optivision - Chrome extension and website for Color Vision Deficiency testing using JavaScript, React.js, HTML, CSS
+Popup Notification Sender - Multi-channel communication backend service for Veritas LLC using Java, Python, SQL
+Personal Khata - Android financial tracking application using Java, Android SDK, Firebase
+Achievements
+UBS India Hackathon Winner
+UBS Certified Engineer
+Problem Solving Certified by HackerRank
+Website Requirements
+Design Specifications
+Modern, minimalist design with professional color scheme
+Responsive layout that works on desktop, tablet, and mobile
+Clean typography with good readability
+Smooth animations and hover effects
+Dark/light theme toggle option
+Fast loading times and optimized performance
+Required Sections
+Hero Section
+
+
+Professional headshot placeholder
+Name and current title
+Brief tagline about expertise
+Call-to-action buttons (Resume, Contact, LinkedIn)
+About Me
+
+
+Professional summary highlighting full-stack development expertise
+Focus on cloud technologies, machine learning, and automation
+Mention UBS experience and impact metrics
+Experience
+
+
+Timeline layout showing career progression
+Detailed descriptions of roles at UBS
+Quantified achievements and impact metrics
+Technologies used in each role
+Skills
+
+
+Interactive skill bars or cards
+Categorized by Programming Languages, Frameworks, Databases, Tools
+Visual representations of proficiency levels
+Projects
+
+
+Grid layout with project cards
+Include project images/mockups
+Technology stack used
+Brief descriptions and key features
+Links to GitHub repositories or live demos
+Education
+
+
+University details and GPA
+Relevant coursework or academic achievements
+Achievements & Certifications
+
+
+Professional certifications
+Hackathon wins and awards
+Any other notable accomplishments
+Contact
+
+
+Contact form with validation
+Social media links
+Professional email and phone
+Location information
+Technical Implementation
+Use modern HTML5, CSS3, and vanilla JavaScript or a framework like React
+Implement responsive design with CSS Grid/Flexbox
+Add smooth scrolling navigation
+Include form validation for contact section
+Optimize images and assets for web
+Ensure accessibility standards (WCAG compliance)
+Add meta tags for SEO optimization
+Color Scheme & Branding
+Professional color palette (consider blues, grays, or modern gradients)
+Consistent typography hierarchy
+Clean icons and visual elements
+Professional photography style for any placeholder images
+Additional Features
+Downloadable resume functionality
+Blog section (optional, for future expansion)
+Loading animations
+Scroll-triggered animations
+Social media integration
+Analytics tracking setup
+Content Tone
+Professional yet approachable
+Technical expertise without jargon overload
+Focus on problem-solving and impact
+Highlight continuous learning and growth mindset
+Success Metrics
+The website should effectively:
+Showcase technical expertise and professional experience
+Provide easy navigation and excellent user experience
+Demonstrate attention to detail and design skills
+Serve as a comprehensive professional portfolio
+Be optimized for recruiters and potential collaborators
+Deployment
+Ensure the website is ready for deployment on platforms like Vercel, Netlify, or GitHub Pages
+Include instructions for easy updates and maintenance
+Provide documentation for content management
+Please create a complete, professional website that effectively represents Krishna Sudan's technical expertise and professional brand while maintaining modern web development standards.
+
